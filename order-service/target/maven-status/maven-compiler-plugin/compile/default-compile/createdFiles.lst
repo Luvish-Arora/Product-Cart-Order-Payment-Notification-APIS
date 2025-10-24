@@ -1,0 +1,17 @@
+com\ecommerce\order\service\OrderService.class
+com\ecommerce\order\entity\OrderItem.class
+com\ecommerce\order\service\NotificationService.class
+com\ecommerce\order\enums\OrderStatus.class
+com\ecommerce\order\repository\PaymentRepository.class
+com\ecommerce\order\entity\Order.class
+com\ecommerce\order\service\PaymentService.class
+com\ecommerce\order\repository\OrderItemRepository.class
+com\ecommerce\order\enums\PaymentMethod.class
+com\ecommerce\order\dto\PlaceOrderRequest.class
+com\ecommerce\order\enums\PaymentStatus.class
+com\ecommerce\order\dto\OrderResponse.class
+com\ecommerce\order\OrderServiceApplication.class
+com\ecommerce\order\controller\OrderController.class
+com\ecommerce\order\config\RestTemplateConfig.class
+com\ecommerce\order\entity\Payment.class
+com\ecommerce\order\repository\OrderRepository.class
